@@ -1,1 +1,1 @@
-This project is a simple landing page model, which I use Html and css to achieve the model proposed in The Odin Project.
+This project is a simple landing page model, which I use Html and css to achieve the model proposed in The Odin Project. I intend to get as close as possible to this model by looking: https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
