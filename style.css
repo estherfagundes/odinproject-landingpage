@@ -81,7 +81,9 @@ h1{
 
 .singup button{
     border: 0;
-    width: 100px;
+    width: 140px;
+    height: 40px;
+    border-radius: 10px;
 }
 
 .singupbutton{
