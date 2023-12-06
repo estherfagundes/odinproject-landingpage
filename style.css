@@ -5,7 +5,7 @@
     background-color: #1F2937;
     color: white;
     margin: 0;
-    padding: 30px 200px 100px 200px;
+    padding: 30px 200px 150px 200px;
     
 }
 
@@ -99,18 +99,26 @@ h1{
 .container3{
     display: flex;
     background-color: #E5E7EB;
-    padding: 30px 200px 100px 200px;
+    padding: 100px 200px 100px 200px;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .container3 p{
     font-size: 36px;
     color: #1F2937;
+    font-weight: lighter;
+    padding: 0%;
+    margin: 0%;
 }
 
 .container3 strong{
+    padding: 0%;
     justify-self: flex-end;
     font-size: 25px;
+    margin: 0 200px 0 0;
+    align-self: flex-end;
 }
 
 .container4{
